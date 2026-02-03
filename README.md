@@ -4,7 +4,7 @@
 
 Este projeto apresenta uma análise completa de desempenho de um e-commerce brasileiro, utilizando o dataset público da Olist. O objetivo foi transformar dados transacionais brutos em insights de negócio claros, estruturando uma narrativa analítica que conecta vendas, crescimento, operação logística e experiência do cliente.
 
-O dashboard foi desenvolvido no Power BI e organizado em três camadas analíticas complementares.
+O dashboard foi desenvolvido no Power BI e organizado em três camadas analíticas complementares. As páginas do relatório em imagem estão disponíveis na pasta `figures`.
 
 Na Visão Geral, o foco está na saúde do negócio. São apresentados indicadores como GMV, número de pedidos entregues, ticket médio, taxa de atraso, tempo médio de entrega e avaliação média dos clientes, além do mix de pagamento e das categorias com maior contribuição de receita. Um dos principais insights dessa página é a relação direta entre atrasos logísticos e queda na satisfação do cliente.
 
